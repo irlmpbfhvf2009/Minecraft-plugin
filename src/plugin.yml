@@ -1,0 +1,8 @@
+name: LeoPlugin
+main: com.leo.Main
+version: 1.0
+commands:
+  test:
+    description: 測試指令喔
+    aliases: ts
+    usage: /<command> [arg1]
